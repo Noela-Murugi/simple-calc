@@ -1,13 +1,21 @@
 # Simple Calculator
 # Author
 <b>Noela Murugi
+
 # Description
 This projects aim is to be able to recreate Vallie's Estate landing page and showcase the understanding of the HTML and CSS concepts that have been covered so far.
-#Technologies Used
+
+# Technologies Used
 *HTML<br>
 *CSS<br>
 *JavaScript<br>
+
 # Setup instructions
+*Open the Terminal command line: [CTRL+ALT+T]
+*Clone the repository: [git clone https://github.com/Noela-Murugi/simple-calc.git]
+*Change Directory: [cd simple-calc]
+*Open index.html file on your browser
+
 # Live Page
 *****
 # Contact Informantion
