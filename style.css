@@ -1,0 +1,10 @@
+.entire-div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+.entire-div > div{
+    margin-bottom: 1%;
+
+}
