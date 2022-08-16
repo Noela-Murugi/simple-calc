@@ -17,7 +17,7 @@ This projects aim is to be able to recreate Vallie's Estate landing page and sho
 *Open index.html file on your browser<br>
 
 # Live Page
-*****
+https://noela-murugi.github.io/simple-calc/
 # Contact Informantion
 Incase of any enquiries or contributions, be sure to email me at [noela.murugi@student.moringaschool.com]
 # License
