@@ -11,10 +11,10 @@ This projects aim is to be able to recreate Vallie's Estate landing page and sho
 *JavaScript<br>
 
 # Setup instructions
-*Open the Terminal command line: [CTRL+ALT+T]
-*Clone the repository: [git clone https://github.com/Noela-Murugi/simple-calc.git]
-*Change Directory: [cd simple-calc]
-*Open index.html file on your browser
+*Open the Terminal command line: [CTRL+ALT+T]<br>
+*Clone the repository: [git clone https://github.com/Noela-Murugi/simple-calc.git<br>
+*Change Directory: [cd simple-calc]<br>
+*Open index.html file on your browser<br>
 
 # Live Page
 *****
